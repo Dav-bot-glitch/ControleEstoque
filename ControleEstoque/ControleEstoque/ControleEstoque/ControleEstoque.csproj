@@ -1,0 +1,7 @@
+<Project Sdk ="Microsoft.NET.Sdk.WindowsDeskTop">
+    <Property group>
+        <OutputType>WinExe</OutputType> 
+        <TargetFramework>net4B</TargetFramework>
+        <UserWindowsForms>true</UserWindowsForms> 
+    </Property group> 
+</Project>
